@@ -1,0 +1,20 @@
+# Ignore practice code
+practice/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Log files
+*.log
+
+# Enviroment variables
+.env
+
+# VS Code-specific files
+.vscode/
+
+# Virtual environment files
+venv/
+.env/
