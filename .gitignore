@@ -1,6 +1,9 @@
 # Ignore practice code
 practice/
 
+# Ignore puzzle inputs
+inputs/
+
 # Python cache files
 __pycache__/
 *.pyc
